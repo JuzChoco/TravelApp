@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title_activity_temp_converter">Temperature Converter</string>
+    <string name="title_activity_currency_converter">Currency Converter</string>
+    <string name="title_activity_email">Send Email</string>
+
+    <string name="header_activity_main">Los Angeles</string>
+    <string name="dest_activity_main">Los Angeles officially the City of Los Angeles and often known colloquially by its initials L.A., is the most populous city in California and the second most populous city in the United States, after New York. With an estimated population of four million, Los Angeles is the cultural, financial, and commercial center of Southern California. Nicknamed the \"City of Angels\" partly because of its name\'s Spanish meaning, Los Angeles is known for its Mediterranean climate, ethnic diversity, Hollywood, and the entertainment industry, and sprawling metropolis. Los Angeles is in a large basin bounded by the Pacific Ocean on one side and by mountains as high as 10,000 feet (3,000 m) on the others. The city proper, which covers about 469 square miles (1,210 km2), is the seat of Los Angeles County, the most populated county in the country. Los Angeles is also the principal city of the Los Angeles metropolitan area, the second largest in the United States after that of New York City, with a population of 13.1 million. It is part of the Los Angeles-Long Beach combined statistical area, also the nation\'s second most populous area with a 2015 estimated population of 18.7 million. Los Angeles is one of the most substantial economic engines within the United States, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. The Los Angeles combined statistical area also has a gross metropolitan product of $831 billion (as of 2008), making it the third-largest in the world, after the Tokyo and New York metropolitan areas. Los Angeles hosted the 1932 and 1984 Summer Olympics and will host the event for a third time in 2028. The city also hosted the Miss Universe pageant twice, in 1990 and 2006, and was one of 9 American cities to host the 1994 FIFA men\'s soccer World Cup and one of 8 to host the 1999 FIFA women\'s soccer World Cup, hosting the final match for both tournaments. Historically home to the Chumash and Tongva, Los Angeles was claimed by Juan Rodríguez Cabrillo for Spain in 1542 along with the rest of what would become Alta California. The city was officially founded on September 4, 1781, by Spanish governor Felipe de Neve. It became a part of Mexico in 1821 following the Mexican War of Independence. In 1848, at the end of the Mexican–American War, Los Angeles and the rest of California were purchased as part of the Treaty of Guadalupe Hidalgo, becoming part of the United States. Los Angeles was incorporated as a municipality on April 4, 1850, five months before California achieved statehood. The discovery of oil in the 1890s brought rapid growth to the city. The completion of the Los Angeles Aqueduct in 1913, delivering water from Eastern California, later assured the city\'s continued rapid growth.</string>
+    <string name="temperature_converter_button">Temperature Converter</string>
+    <string name="currency_converter_button">Currency Converter</string>
+    <string name="email_friend_button">Email Friend</string>
+
+    <string name="hint_temp_edittext">Enter temperature here</string>
+    <string name="fahrenheit_radiobutton">to Fahrenheit</string>
+    <string name="celsius_radiobutton">to Celsius</string>
+    <string name="convert_button">Convert</string>
+    <string name="clear_button">Clear</string>
+    <string name="result_tofahrenheit_textview">%.2f Celsius is %.2f Fahrenheit</string>
+    <string name="result_tocelsius_textview">%.2f Fahrenheit is %.2f Celsius</string>
+
+    <string name="currency_textview">Currency</string>
+    <string name="hint_curr_edittext">Enter Currency</string>
+    <string name="rate_textview">Rate</string>
+    <string name="hint_rate_edittext">Enter Rate</string>
+    <string name="sgd_textview">Singapore Dollars</string>
+    <string name="hint_sgd_edittext">Enter Singapore Dollars</string>
+    <string name="result_conv_textview">%.2f SGD is %.2f %3s</string>
+
+    <string name="name_textview">Name</string>
+    <string name="name_hint">Enter the recipient name</string>
+    <string name="email_textview">Email</string>
+    <string name="email_hint">Enter the recipient email</string>
+    <string name="city_textview">City</string>
+    <string name="city_hint">Enter the destination city</string>
+    <string name="preview_message_button">Preview Message</string>
+    <string name="send_email_button">Send Email</string>
+    <string name="email_subject">Going on vacation!</string>
+
+    <string name="hey">Hey</string>
+    <string name="im_going_to">I\'m going to</string>
+    <string name="implement_the_interface_here">implement the interface here</string>
+</resources>
